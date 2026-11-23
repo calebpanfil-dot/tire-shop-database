@@ -1,10 +1,27 @@
 # tire-shop-database
+Project Overview
 A PostgreSQL database project for managing customers, vehicles, and tire shop service records.
 
-The goal is to create a database that organizes customer and vehicle information while tracking services performed and their associated costs.
+The goal of this project is to practice SQL database design, data management, and analysis while creating a portfolio project related to the automotive service industry.
 
-Structure
-The project currently has three tables.
-1. Customers: Stores customers names and contact information
-2. Vehicles: Stores vehicle information
-3. Service Records: Tracks services performed on vehicles, service dates, and cost
+Database Features
+- Customer records
+- Vehicle information
+- Service records
+- Relationships between customers and vehicles
+- SQL queries for business analysis
+
+Skills Demonstrated
+- PostgreSQL
+- SQL
+- Database design
+- Primary and foreign keys
+- JOIN statements
+- Data analysis
+
+Future Improvements
+- Analyze total service revenue
+- Identify the most common services
+- Calculate average service costs
+- Track customer service history
+
